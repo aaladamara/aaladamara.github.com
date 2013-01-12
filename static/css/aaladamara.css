@@ -1,0 +1,23 @@
+body{
+    background-color:#E5DCA9;
+    font-size:14px;
+    line-height:20px;
+    font-family:Gubbi, sans-serif, Helvetica;
+}
+.main-menu{
+    text-align:right;
+}
+.main-menu a{
+    display:inline-block;
+    text-decoration:none;
+    margin-left:20px;
+    color:#000;
+    border-bottom:1px solid #333;
+    -webkit-transition: border ease 0.7s;
+}
+.main-menu a:hover{
+    border-bottom:6px solid #333;
+}
+.sep{
+    height:20px;
+}

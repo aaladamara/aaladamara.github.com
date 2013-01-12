@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aravinda</title>
+    <link>http://aaladamara.org</link>
+    <atom:link href="http://aaladamara.org/feed-projects.xml" rel="self" type="application/rss+xml" />
+    <description>ಕನ್ನಡ ತಂತ್ರಜ್ಞಾನ ಯೋಜನೆಗಳು</description>
+    <language>en-us</language>
+    <pubDate>Sat, 12 Jan 2013 16:17:41 +0530</pubDate>
+    <lastBuildDate>Sat, 12 Jan 2013 16:17:41 +0530</lastBuildDate>
+
+    
+    
+    <item>
+      <title>ಪ್ರಾಜೆಕ್ಟು three</title>
+      <link>http://aaladamara.org/blog/c-project</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0530</pubDate>
+      <author>root@aaladamara.org(Aaladamara)</author>
+      <guid>http://aaladamara.org//blog/c-project</guid>
+      <description>&lt;p&gt;ಒಂದು ಪ್ರಾಜೆಕ್ಟು&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>ಪ್ರಾಜೆಕ್ಟು two</title>
+      <link>http://aaladamara.org/blog/b-project</link>
+      <pubDate>Sun, 30 Dec 2012 00:00:00 +0530</pubDate>
+      <author>root@aaladamara.org(Aaladamara)</author>
+      <guid>http://aaladamara.org//blog/b-project</guid>
+      <description>&lt;p&gt;ಒಂದು ಪ್ರಾಜೆಕ್ಟು&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>ಒಂದು ಪ್ರಾಜೆಕ್ಟು</title>
+      <link>http://aaladamara.org/blog/a-project</link>
+      <pubDate>Sat, 29 Dec 2012 00:00:00 +0530</pubDate>
+      <author>root@aaladamara.org(Aaladamara)</author>
+      <guid>http://aaladamara.org//blog/a-project</guid>
+      <description>&lt;p&gt;ಒಂದು ಪ್ರಾಜೆಕ್ಟು&lt;/p&gt;
+</description>
+    </item>
+    
+    
+
+  </channel>
+</rss>
